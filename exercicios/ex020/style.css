@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+h1{
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    border: 10px 10px;
+    border-style: solid;
+    border-color: rgb(224, 30, 30);
+    padding: 10px auto 10px auto;
+    margin: auto;
+    outline: dashed rgb(241, 238, 8);
+    display: 30px;
+    
+
+}
+   
+a{
+    border: auto;
+    border-style: dashed;
+    border-color: rgb(116, 216, 17);
+    margin-top: 10px 10px;
+    margin-right: 10px 10px;
+    margin-bottom: 10px 10px;
+    margin-left: 10px 10px;
+    display:auto;
+    
+    
+
+}
+.sub{
+    color: rgb(39, 228, 15);
+    display: block;
+
+}
+h1#priciapl{
+    background-color: blueviolet;
+    text-align: center;outline: 10px 10px 10px 10px;
+    margin: 10px 20px 30px 10px;
+    border: 30px 30px;color: brown;
+    padding: 20px 05px 20px 05px;
+    border-style: dashed;
+    display: grid;
+
+}
+.paragrafo{
+    color: darkred;margin: 15px 10px;
+    text-align: center;
+    font-size: 100%;
+    font-family: fantasy;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+   font-family: fantasy;
+   text-size-adjust: 20px;
+   margin: auto;
+   
+}

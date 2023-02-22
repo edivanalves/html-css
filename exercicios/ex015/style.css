@@ -1,0 +1,23 @@
+@charset "UTF8";
+        body{
+            background-color: rgb(225, 231, 225);
+            font-family: 'Times New Roman', Times, serif;
+            color: rgb(214, 18, 18) }
+        h1{
+            color: rgb(21, 150, 16);
+        }
+        h2{
+            color: red;
+        }
+        p{
+         text-align: justify;
+         color: black;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+         font-size: small;
+         stroke-opacity: initial;
+        }
+    h3{
+        color: rgb(7, 7, 7);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: justify;
+     }

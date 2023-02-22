@@ -1,0 +1,17 @@
+@charset "UTF8";
+
+@font-face {
+    font-family: love;
+    src: url(fontes/Mf\ Love\ Song.ttf) format(truetype);
+    font-size: normal;
+    font-weight: normal;
+}
+h2{font-family:kanit,'Courier New', Courier, monospace;
+font-size: 3em;
+font-weight: normal;
+}
+h1{
+    font-family:love,'Courier New', Courier, monospace;
+font-size: 3em;
+font-weight: normal;
+}
